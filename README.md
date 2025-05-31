@@ -15,7 +15,7 @@ Spotify Clone is a static, front-end–only web application that mimics the esse
   - Next / Previous  
   - Seek (click on the progress bar)  
   - Volume slider + Mute toggle  
-  - Displays current time / duration  
+  - Displays current time/duration  
   - Displays track title and album art
 - **Responsive Layout**  
   - Desktop: sidebar on the left (hidden on mobile), content on the right  
@@ -28,3 +28,13 @@ Spotify Clone is a static, front-end–only web application that mimics the esse
     - `info.json` (with `title` & `description` fields)
     - One or more `.mp3` files (tracks)
   - Automatically populates the UI based on actual file structure (no hard-coded track list)
+---
+
+## info.json Format
+
+``
+{
+  "title": "Angry Hits",
+  "description": "Songs to down-regulate your anger."
+}
+``
