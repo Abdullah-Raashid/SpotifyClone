@@ -1,0 +1,97 @@
+[
+  {
+    "folder": "Angry",
+    "title": "Angry Mood",
+    "description": "High-energy tracks to channel the mood.",
+    "cover": "cover.jpg",
+    "tracks": [
+      "1.mp3",
+      "1 copy.mp3",
+      "1 copy 2.mp3",
+      "1 copy 3.mp3",
+      "1 copy 4.mp3",
+      "1 copy 5.mp3",
+      "1 copy 6.mp3",
+      "1 copy 7.mp3",
+      "1 copy 8.mp3"
+    ]
+  },
+  {
+    "folder": "Bright",
+    "title": "Bright Songs",
+    "description": "An upbeat collection for a brighter day.",
+    "cover": "cover.jpg",
+    "tracks": [
+      "1.mp3",
+      "1 copy.mp3",
+      "1 copy 2.mp3",
+      "1 copy 3.mp3",
+      "1 copy 4.mp3",
+      "1 copy 5.mp3",
+      "1 copy 6.mp3"
+    ]
+  },
+  {
+    "folder": "Chill",
+    "title": "Just Chill",
+    "description": "Easy listening for slower moments.",
+    "cover": "cover.jpg",
+    "tracks": ["1.mp3"]
+  },
+  {
+    "folder": "Dark",
+    "title": "Dark Horse",
+    "description": "Moody sounds for late-night listening.",
+    "cover": "cover.jpg",
+    "tracks": ["1.mp3"]
+  },
+  {
+    "folder": "Diljit",
+    "title": "Diljit Dosanjh",
+    "description": "A playlist of Diljit-inspired favorites.",
+    "cover": "cover.jpg",
+    "tracks": ["1.mp3"]
+  },
+  {
+    "folder": "Funky",
+    "title": "Go Funky",
+    "description": "Grooves that keep the room moving.",
+    "cover": "cover.jpg",
+    "tracks": ["1.mp3"]
+  },
+  {
+    "folder": "Love",
+    "title": "I Love You",
+    "description": "Warm songs for romantic moods.",
+    "cover": "cover.jpg",
+    "tracks": ["1.mp3"]
+  },
+  {
+    "folder": "Uplifting",
+    "title": "Get Up",
+    "description": "A little momentum when you need it.",
+    "cover": "cover.jpg",
+    "tracks": ["1.mp3"]
+  },
+  {
+    "folder": "cs",
+    "title": "Cover Songs",
+    "description": "A collection of familiar covers.",
+    "cover": "cover.jpg",
+    "tracks": ["1.mp3"]
+  },
+  {
+    "folder": "karan_aujla",
+    "title": "Karan Aujla",
+    "description": "A Karan Aujla-inspired selection.",
+    "cover": "cover.jpg",
+    "tracks": ["1.mp3"]
+  },
+  {
+    "folder": "ncs",
+    "title": "Sleep Songs",
+    "description": "Gentle tracks for winding down.",
+    "cover": "cover.jpg",
+    "tracks": ["1.mp3"]
+  }
+]
